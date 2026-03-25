@@ -60,7 +60,7 @@ Then start the API:
 uvicorn app:app --reload
 ```
 
-Open `https://redflagai.onrender.com/`
+Open https://redflagai.onrender.com/
 
 ---
 
